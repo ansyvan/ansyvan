@@ -1,11 +1,16 @@
-<h1>Hi, I'm Andriana! <a href="https://www.linkedin.com/in/andriana-syvanych-9744b926a/">QA Specialist</a></h1>
+<h1>Hi, I'm Andriana! 👋🏻</h1>
+<h4>This year, I started my journey in Quality Assurance and I'm excited to share the results I've achieved.</h4>
 
 <h2>👩🏼‍💻 Projects I’m currently working on:</h2>
 
 
-- <b>PyTest Practice</b>
-  - [QA Auto Course Project](https://github.com/ansyvan/PyTest_Tutorial)
-  <br/><a>The project includes a collection of test samples that were created during the QA Automation Course.</a>
+- <b>Testing Practice</b>
+
+  - [QA Auto Course PyTest Project](https://github.com/ansyvan/PyTest_Tutorial)
+  <br/><a>Pytest tutorial conducted during the QA Automation Course.</a>
+
+  - [Manual Testing Examples](https://github.com/ansyvan/manual-test-samples)
+    <br/><a>The project includes a collection of test exercises and documentation samples that were created during the QA Manual Course and further self-study practice.</a>
 
 - <b>DataBase and SQL Practice</b>
   - [Hotels DataBase](https://github.com/ansyvan/SQL_Practice/tree/main/HotelsDB) 
