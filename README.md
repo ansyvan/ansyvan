@@ -17,11 +17,7 @@
   <br/><a>This project comprises SQL scripts for the creation of a relational database with multiple tables focused on the hotel industry.
 <br/>It includes examples of using the SELECT operator to retrieve specific data from the Hotels Database.
   <br/>A database diagram is also provided.</a>
-  - [Plant Care Assistant](https://github.com/ansyvan/SQL_Practice) <b><i>(in progress...)</b></i>
-  <br/><a>This project focuses on practicing database concepts and SQL queries.
-  <br/>The Plant Care Assistant project is an interactive database that allows plant lovers to efficiently manage and care for their precious plants.</a>
-
-
+ 
 
 
 
