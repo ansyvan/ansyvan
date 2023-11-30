@@ -6,13 +6,17 @@
 [QA Automation Course Pytest Project](https://github.com/ansyvan/pytest_tutorial)
   <br/>Pytest tutorial conducted during the QA Automation Course.
 
+Postman API tests:
+  - [simple_books API collection](https://github.com/ansyvan/test-samples/blob/main/simple_books.postman_collection.json) and [Newman HTML reporter](https://github.com/ansyvan/test-samples/blob/main/simple_books-2023-11-30-13-46-09-262-0.html) created during the Introduction to Postman [course](https://github.com/vdespa/introduction-to-postman-course).
+  - Swagger Petstore API practicing [Postman collection](https://github.com/ansyvan/test-samples/blob/main/Petstore.postman_collection.json).
+
+
 [Test Examples](https://github.com/ansyvan/manual-test-samples)
 <br/>The project includes a collection of test exercises and documentation samples that were created during the QA courses and self-study practice.
   - [List](https://github.com/ansyvan/test-samples/blob/main/Multi-Dealer_Website_Testing.pdf) of UI bugs found on the website screenshot.
   - Checking Age Field [test cases](https://github.com/ansyvan/test-samples/blob/main/AgeField_Check_TestCases.pdf) functionality.
   - Search Field [test cases](https://github.com/ansyvan/test-samples/blob/main/SearchField_TestCases_TestRail.pdf) written using TestRail.
   - Testing online purchase functionality [check list](https://github.com/ansyvan/test-samples/blob/main/OnlinePurchase_CheckList.pdf).
-  - Swagger Petstore API practicing [Postman collection](https://github.com/ansyvan/test-samples/blob/main/Petstore.postman_collection.json).
   - [Actions](https://github.com/ansyvan/test-samples/blob/main/studyqa_selenium.side) recorded in Selenium IDE browser extension on adding and deleting a product in online store.
 
 <b>DataBase and SQL Practice</b>
