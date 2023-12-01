@@ -4,10 +4,10 @@
 <h2>👩🏼‍💻 Projects I’m currently working on:</h2>
 
 [QA Automation Course Pytest Project](https://github.com/ansyvan/pytest_tutorial)
-  <br/>Pytest tutorial conducted during the QA Automation Course.
+  <br/>Pytest tutorial conducted during the QA Automation Course created by Prometheus online education platform and GlobalLogic digital services company.
 
 <b>Postman API tests:<b/>
-  - [simple_books API collection](https://github.com/ansyvan/test-samples/blob/main/simple_books.postman_collection.json) and [Newman HTML reporter](https://github.com/ansyvan/test-samples/blob/main/simple_books-2023-11-30-13-46-09-262-0.html) created during the Introduction to Postman [course](https://github.com/vdespa/introduction-to-postman-course).
+  - [simple_books API collection](https://github.com/ansyvan/test-samples/blob/main/simple_books.postman_collection.json) and [Newman HTML reporter](https://github.com/ansyvan/test-samples/blob/main/simple_books-2023-11-30-13-46-09-262-0.html) created during the Introduction to Postman [course](https://github.com/vdespa/introduction-to-postman-course) created by Valentin Despa.
   - Swagger Petstore API practicing [Postman collection](https://github.com/ansyvan/test-samples/blob/main/Petstore.postman_collection.json).
 
 
