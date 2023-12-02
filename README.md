@@ -3,13 +3,15 @@
 
 <h2>👩🏼‍💻 Projects I’m currently working on:</h2>
 
-[QA Automation Course Pytest Project](https://github.com/ansyvan/pytest_tutorial)
+<b>[QA Automation Course Pytest Project](https://github.com/ansyvan/pytest_tutorial)</b>
   <br/>Pytest tutorial conducted during the QA Automation Course created by Prometheus online education platform and GlobalLogic digital services company.
 
 <b>Postman API tests:<b/>
-  - [simple_books API collection](https://github.com/ansyvan/test-samples/blob/main/simple_books.postman_collection.json) and [Newman HTML reporter](https://github.com/ansyvan/test-samples/blob/main/simple_books-2023-11-30-13-46-09-262-0.html) created during the Introduction to Postman [course](https://github.com/vdespa/introduction-to-postman-course) created by Valentin Despa.
+  - [simple_books API collection](https://github.com/ansyvan/test-samples/blob/main/simple_books.postman_collection.json) and [Newman HTML reporter](https://github.com/ansyvan/test-samples/blob/main/simple_books-2023-11-30-13-46-09-262-0.html) created during the Introduction to Postman [course](https://github.com/vdespa/introduction-to-postman-course).
   - Swagger Petstore API practicing [Postman collection](https://github.com/ansyvan/test-samples/blob/main/Petstore.postman_collection.json).
 
+<b>[XPath Tutorial](https://github.com/ansyvan/test-samples/blob/main/XPath_Tutorial.pdf)</b> (in progres...)
+  <br/>Exploring the thrilling topic of locating web elements I am puting my notes and XPath examples in this document.
 
 [Test Examples](https://github.com/ansyvan/manual-test-samples)
 <br/>The project includes a collection of test exercises and documentation samples that were created during the QA courses and self-study practice.
