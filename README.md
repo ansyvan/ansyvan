@@ -3,18 +3,18 @@
 
 <h2>👩🏼‍💻 Projects I’m currently working on:</h2>
 
-<b>[QA Automation Course Pytest Project](https://github.com/ansyvan/pytest_tutorial)</b>
-  <br/>Pytest tutorial conducted during the QA Automation Course created by Prometheus online education platform and GlobalLogic digital services company.
+[QA Automation Course Pytest Project](https://github.com/ansyvan/pytest_tutorial)
+<br/>Pytest tutorial conducted during the QA Automation Course created by Prometheus online education platform and GlobalLogic digital services company.
 
-<b>Postman API tests:<b/>
+Postman API tests:
   - [simple_books API collection](https://github.com/ansyvan/test-samples/blob/main/simple_books.postman_collection.json) and [Newman HTML reporter](https://github.com/ansyvan/test-samples/blob/main/simple_books-2023-11-30-13-46-09-262-0.html) created during the Introduction to Postman [course](https://github.com/vdespa/introduction-to-postman-course).
   - Swagger Petstore API practicing [Postman collection](https://github.com/ansyvan/test-samples/blob/main/Petstore.postman_collection.json).
 
-<b>Python Projects:<b/>
-  - ["Guess the number" game](https://github.com/ansyvan/python_projects/blob/main/guess_number_game.py).</b> My version of the popular guessing game on Python.
+Python Projects:
+  - ["Guess the Number" game](https://github.com/ansyvan/python_projects/blob/main/guess_number_game.py).</b> My version of the popular guessing game on Python.
 
-<b>[XPath Tutorial](https://github.com/ansyvan/test-samples/blob/main/XPath_Tutorial.pdf)</b> (in progres...)
-  <br/>Exploring the thrilling topic of locating web elements I am puting my notes and XPath examples in this document.
+[XPath Tutorial](https://github.com/ansyvan/test-samples/blob/main/XPath_Tutorial.pdf)</b> (in progres...)
+<br/>Exploring the thrilling topic of locating web elements I am puting my notes and XPath examples in this document.
 
 [Test Examples](https://github.com/ansyvan/manual-test-samples)
 <br/>The project includes a collection of test exercises and documentation samples that were created during the QA courses and self-study practice.
@@ -24,7 +24,7 @@
   - Testing online purchase functionality [check list](https://github.com/ansyvan/test-samples/blob/main/OnlinePurchase_CheckList.pdf).
   - [Actions](https://github.com/ansyvan/test-samples/blob/main/studyqa_selenium.side) recorded in Selenium IDE browser extension on adding and deleting a product in online store.
 
-<b>DataBase and SQL Practice</b>
+DataBase and SQL Practice
   - [Hotels DataBase](https://github.com/ansyvan/SQL_Practice/tree/main/HotelsDB) 
   <br/>This project comprises SQL scripts for the creation of a relational database with multiple tables focused on the hotel industry.
 <br/>It includes examples of using the SELECT operator to retrieve specific data from the Hotels Database.
