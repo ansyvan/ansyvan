@@ -11,7 +11,7 @@
   - Swagger Petstore API practicing [Postman collection](https://github.com/ansyvan/test-samples/blob/main/Petstore.postman_collection.json).
 
 <b>Python Projects:<b/>
-  - <b>["Guess the number" game](https://github.com/ansyvan/python_projects/blob/main/guess_number_game.py).</b>
+  - ["Guess the number" game](https://github.com/ansyvan/python_projects/blob/main/guess_number_game.py).</b> My version of the popular guessing game on Python.
 
 <b>[XPath Tutorial](https://github.com/ansyvan/test-samples/blob/main/XPath_Tutorial.pdf)</b> (in progres...)
   <br/>Exploring the thrilling topic of locating web elements I am puting my notes and XPath examples in this document.
