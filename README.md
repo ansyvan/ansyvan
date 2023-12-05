@@ -10,6 +10,9 @@
   - [simple_books API collection](https://github.com/ansyvan/test-samples/blob/main/simple_books.postman_collection.json) and [Newman HTML reporter](https://github.com/ansyvan/test-samples/blob/main/simple_books-2023-11-30-13-46-09-262-0.html) created during the Introduction to Postman [course](https://github.com/vdespa/introduction-to-postman-course).
   - Swagger Petstore API practicing [Postman collection](https://github.com/ansyvan/test-samples/blob/main/Petstore.postman_collection.json).
 
+<b>Python Projects:<b/>
+  - <b>["Guess the number" game](https://github.com/ansyvan/python_projects/blob/main/guess_number_game.py).</b>
+
 <b>[XPath Tutorial](https://github.com/ansyvan/test-samples/blob/main/XPath_Tutorial.pdf)</b> (in progres...)
   <br/>Exploring the thrilling topic of locating web elements I am puting my notes and XPath examples in this document.
 
