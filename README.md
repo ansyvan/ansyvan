@@ -23,6 +23,7 @@ Python Projects:
   - Search Field [test cases](https://github.com/ansyvan/test-samples/blob/main/SearchField_TestCases_TestRail.pdf) written using TestRail.
   - Testing online purchase functionality [check list](https://github.com/ansyvan/test-samples/blob/main/OnlinePurchase_CheckList.pdf).
   - [Actions](https://github.com/ansyvan/test-samples/blob/main/studyqa_selenium.side) recorded in Selenium IDE browser extension on adding and deleting a product in online store.
+  - Checking "Guess the Number" game scenarios using [Decision Table Technique](https://github.com/ansyvan/test-samples/blob/main/Decision_Table_Examples.pdf).
 
 DataBase and SQL Practice
   - [Hotels DataBase](https://github.com/ansyvan/SQL_Practice/tree/main/HotelsDB) 
