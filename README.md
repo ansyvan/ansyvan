@@ -26,13 +26,13 @@
   - Checking "Guess the Number" game scenarios using [Decision Table Technique](https://github.com/ansyvan/test-samples/blob/main/Decision_Table_Examples.pdf).
 
 <b>DataBase and SQL Practice</b>
-  - [Hotels DataBase](https://github.com/ansyvan/SQL_Practice/tree/main/HotelsDB) 
+  - [Hotels Database](https://github.com/ansyvan/SQL_Practice/tree/main/HotelsDB) 
   <br/>This project comprises SQL scripts for the creation of a relational database with multiple tables focused on the hotel industry.
 <br/>It includes examples of using the SELECT operator to retrieve specific data from the Hotels Database.
   <br/>A database diagram is also provided.
 
 - [Employees Database](https://github.com/ansyvan/sql-practice/tree/main/EmployeesDB)
-  <br/>Tests on database ctructure, JOIN queries practice.
+  <br/>Tests on database structure, JOIN queries practice.
 
 - [My Plant Collection Database](https://github.com/ansyvan/plant_collection_database/tree/main) (in progres...)
   <br/>This is a database on my houseplant collection which counts more than 40 species of exotic plants. The project is supposed to contain a few tables on plant species names, specimens, their development stages, plant care routine records, vendors and the purchase prices.
