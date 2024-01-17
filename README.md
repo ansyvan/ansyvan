@@ -24,6 +24,7 @@
   - Testing online purchase functionality [check list](https://github.com/ansyvan/test-samples/blob/main/OnlinePurchase_CheckList.pdf).
   - [Actions](https://github.com/ansyvan/test-samples/blob/main/studyqa_selenium.side) recorded in Selenium IDE browser extension on adding and deleting a product in online store.
   - Checking "Guess the Number" game scenarios using [Decision Table Technique](https://github.com/ansyvan/test-samples/blob/main/Decision_Table_Examples.pdf).
+  - Example of testing a [database](https://github.com/ansyvan/sql-practice/blob/main/EmployeesDB/SQL_emloyees_database_testing.pdf) structure.
 
 <b>DataBase and SQL Practice</b>
   - [Hotels Database](https://github.com/ansyvan/SQL_Practice/tree/main/HotelsDB) 
