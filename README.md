@@ -1,5 +1,9 @@
-<h1>Hi, I'm Andriana! 👋🏻</h1>
-<h4>Last year, I started my journey in Quality Assurance and I'm excited to share the results I've achieved.</h4>
+<h1>Welcome to My GitHub Repository! 👋🏻</h1>
+<br/>Hello! I'm Andriana, a dedicated QA Engineer passionate about ensuring software quality and reliability. On this page, you'll find a collection of my work, including test scripts, automation frameworks, testing documentation examples, and various projects I’ve been involved with.
+
+<h2>Technoligies I have experience with</h2>
+
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 <h2>👩🏼‍💻 Projects I’m currently working on:</h2>
 
@@ -37,14 +41,11 @@
 
 - [My Plant Collection Database](https://github.com/ansyvan/plant_collection_database/tree/main) (in progres...)
   <br/>This is a database on my houseplant collection which counts more than 40 species of exotic plants. The project is supposed to contain a few tables on plant species names, specimens, their development stages, plant care routine records, vendors and the purchase prices.
- 
-
-
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="Andriana Syvanych | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Andriana Syvanych | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Andriana Syvanych | LinkedIn" width="32px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg" />][linkedin]
+[<img align="left" alt="Andriana Syvanych | Instagram" width="32px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Instagram.svg" />][instagram]
 
 [instagram]: https://www.instagram.com/andriana.syvan/
 [linkedin]: https://www.linkedin.com/in/andriana-syvanych-9744b926a/
